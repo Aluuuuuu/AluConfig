@@ -1,5 +1,8 @@
 # JuliaConfig
-My custom TF2 FPS config that I made
+
+My custom TF2 config I made.
+It aims to maximize performance while also keeping stuff visually clear.
 
 # Usage
-Place these in a folder in **Steam/steamapps/common/Team Fortress 2/tf/custom/**
+
+Get the VPKs from the releases and put them here: `Steam/steamapps/common/Team Fortress 2/tf/custom/`
