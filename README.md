@@ -1,6 +1,6 @@
 # JuliaConfig
 
-My custom TF2 config I made.
+A custom TF2 config I made.
 It aims to maximize performance while also keeping stuff visually clear.
 
 # Usage
